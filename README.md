@@ -19,7 +19,9 @@ Herramientas utilizadas: Python 3.11.4
                          Libreria Tkinter
 Guia de instalacion:
 Guia de uso: Paso 1-. Ejecutar el codigo en Visual Studio Code
-             Paso 2-. Se abrira una ventana en la cual se deben introducir los datos necesarios para obtener el resultado 
+             Paso 2-. Se abrira una ventana en la cual se deben introducir los datos necesarios para obtener el resultado
+             ![Captura de pantalla 2023-06-13 234409](https://github.com/Bastian03Riveros/Eva-Transdisciplinar-2023-C3-S3/assets/135167583/3cf79dad-f667-418b-ba90-53be502323b1)
+
            
 
 
