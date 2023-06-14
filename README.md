@@ -25,6 +25,8 @@ Guia de uso: Paso 1-. Ejecutar el codigo en Visual Studio Code
 
 Cosas por terminar: Mejorar el codigo
                     Hacer video
+                    Guia de instalacion 
+                    
                     
                    
 
