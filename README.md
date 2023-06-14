@@ -14,3 +14,16 @@ En el caso de la fórmula de la energía potencial gravitatoria, esta se represe
 Aplicaciones: La energía potencial gravitacional se aplica en muchos campos. Por ejemplo, el agua contenida en un tanque tiene más energía en la medida que el tanque está a mayor altura. A mayor altura del tanque, mayor será la velocidad de salida del agua por el grifo1. La energía potencial gravitatoria es la que almacenan los cuerpos cuando están en un campo gravitacional.
 
 Programacion:
+Herramientas utilizadas: Python 3.11.4
+                         Visual Studio Code
+                         Libreria Tkinter
+Guia de instalacion:
+Guia de uso: Paso 1-. Ejecutar el codigo en Visual Studio Code
+             Paso 2-. Se abrira una ventana en la cual se deben introducir los datos necesarios para obtener el resultado 
+           
+
+
+
+
+                         
+                       
