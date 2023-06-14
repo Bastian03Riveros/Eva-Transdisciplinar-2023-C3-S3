@@ -16,6 +16,7 @@ Programacion:
 Herramientas utilizadas: Python 3.11.4
                          Visual Studio Code
                          Libreria Tkinter
+                         Canvas
 Guia de instalacion:
 Guia de uso: Paso 1-. Ejecutar el codigo en Visual Studio Code
              Paso 2-. Se abrira una ventana en la cual se deben introducir los datos necesarios para obtener el resultado
