@@ -23,7 +23,13 @@ Las herramientas que se utilizaron en este trabajo fueron "Python 3.11.4", "Visu
 RELLENAR ESTE ITEM
 
 # Guia de instalacion
-completar......
+1-. Principalmente debes desargar e instalar Python mediante este enlace --> https://www.python.org/downloads/.
+
+2-. Al momento de estar instalando Python, desde su launcher (su instalador) hay que marcar una casilla llamada "add python to PATH".
+
+3-. No es necesario agregar una nueva intalacion sobre la libreria "Tkinter" ya que viene incluido en el mismo Python.
+
+4-. completar................
 
 # Guia de uso
 Paso 1-. Ejecutar el codigo en Visual Studio Code
@@ -39,3 +45,6 @@ Crear La Instalacion
 Guia de instalacion.
                     
                     ![Captura de pantalla 2023-06-13 234409](https://github.com/Bastian03Riveros/Eva-Transdisciplinar-2023-C3-S3/assets/135167583/2516ccef-8364-47a7-b257-17c062dc6cff)
+
+# Conclusiones
+En conclusion sobre este proyecto podemos decir que 
