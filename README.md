@@ -27,6 +27,7 @@ completar......
 
 # Guia de uso
 Paso 1-. Ejecutar el codigo en Visual Studio Code
+
 Paso 2-. Se abrira una ventana en la cual se deben introducir los datos necesarios para obtener el resultado.
              
              
