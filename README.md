@@ -55,6 +55,7 @@ Paso 1-. Ejecutar el codigo en Visual Studio Code
 Paso 2-. Se abrira una ventana en la cual se deben introducir los datos necesarios para obtener el resultado.
              
              
+
 COSAS POR TERMINAR:
 
 -Mejorar el codigo
@@ -63,7 +64,9 @@ COSAS POR TERMINAR:
 
 -Crear La Instalacion
 
--Guia de instalacion.
+-Guia de instalacion
+
+-Conclusion(dejarlo para casi al final)
                     
                     ![Captura de pantalla 2023-06-13 234409](https://github.com/Bastian03Riveros/Eva-Transdisciplinar-2023-C3-S3/assets/135167583/2516ccef-8364-47a7-b257-17c062dc6cff)
 
