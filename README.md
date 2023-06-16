@@ -11,12 +11,15 @@ La energía potencial gravitacional se remonta a la época de Isaac Newton en el
 La energía potencial gravitacional es la energía que posee un objeto debido a su posición en el campo gravitatorio de la Tierra o cualquier otro cuerpo masivo. Esta energía se mide en julios y depende de la altura a la que se encuentra el objeto y de su masa. A medida que un objeto se eleva en el campo gravitacional, su energía potencial gravitacional se incrementa, mientras que al descender, su energía potencial disminuye. Esta energía es importante en la comprensión de la mecánica clásica, y en la descripción de fenómenos como caídas libres y sistemas planetarios.
 
 # ¿Que formula se ocupa?
-En el caso de la fórmula de la energía potencial gravitatoria, esta se representa así: "Ep = m·g·h".
+En el caso de la fórmula de la energía potencial gravitatoria, esta se representa así: "EP = M·G·H".
 
-Ep: es la energía potencial de un cuerpo concreto 
-m: es la masa del cuerpo 
-g: es el valor de la aceleración producido por la gravedad 
-h: es la altura a la que se encuentra en el cuerpo.
+EP: es la energía potencial de un cuerpo concreto.
+
+M: es la masa del cuerpo.
+
+G: es el valor de la aceleración producido por la gravedad.
+
+H: es la altura a la que se encuentra en el cuerpo.
 
 # ¿Como se puede resolver?
 La energía potencial gravitacional depende de la masa y la altura del objeto. Se puede calcular multiplicando el potencial asociado al campo gravitacional por la masa del objeto.
