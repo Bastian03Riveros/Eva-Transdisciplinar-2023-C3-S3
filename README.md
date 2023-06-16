@@ -55,4 +55,4 @@ Guia de instalacion.
                     ![Captura de pantalla 2023-06-13 234409](https://github.com/Bastian03Riveros/Eva-Transdisciplinar-2023-C3-S3/assets/135167583/2516ccef-8364-47a7-b257-17c062dc6cff)
 
 # Conclusiones
-En conclusion sobre este proyecto podemos decir que 
+En conclusion sobre este proyecto podemos decir que mediante la creacion de este proyecto grupal............
