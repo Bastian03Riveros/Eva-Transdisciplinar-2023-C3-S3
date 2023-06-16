@@ -18,7 +18,15 @@ La energía potencial gravitacional depende de la masa y la altura del objeto. S
 La energía potencial gravitacional se aplica en muchos campos. Por ejemplo, el agua contenida en un tanque tiene más energía en la medida que el tanque está a mayor altura. A mayor altura del tanque, mayor será la velocidad de salida del agua por el grifo1. La energía potencial gravitatoria es la que almacenan los cuerpos cuando están en un campo gravitacional.
 
 # Programacion
-Las herramientas que se utilizaron en este trabajo fueron "Python 3.11.4", "Visual Studio Code", se hizo el uso de la libreria "Tkinter". completar..........
+Las herramientas que se utilizaron en este trabajo fueron: 
+
+1-. Python 3.14.2, se hizo el uso de esta herramienta porque principalmente se pidio hacerlo con este programa, para asi poder hacer el desarrollo/funcion del evento fisico que nos toco como grupo a traves de una interfaz grafica.
+
+2-. Visual Studio Code, para hacer la creacion y la funcion del codigo con la utilizacion de Python.
+
+3-. Libreria "Tkinter", basicamente lo usamos para crear la interfaz gráficas de usuario, administrar y crear la ventana principal como por ejemplo las etiquetas, marcos, entradas, botones, etc.
+
+4-. completar.....
 
 RELLENAR ESTE ITEM
 
