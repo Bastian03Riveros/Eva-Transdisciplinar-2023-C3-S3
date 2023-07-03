@@ -58,17 +58,11 @@ Paso 2-. Se abrira una ventana en la cual se deben introducir los datos necesari
 
 COSAS POR TERMINAR:
 
--Mejorar el codigo
-
 -Hacer video
 
 -Crear La Instalacion
 
 -Guia de instalacion
-
--Conclusion(dejarlo para casi al final)
-
-                ![Captura de pantalla 2023-06-13 234409](https://github.com/Bastian03Riveros/Eva-Transdisciplinar-2023-C3-S3/assets/135167583/2516ccef-8364-47a7-b257-17c062dc6cff)
 
 # Conclusiones
 En conclusión, el estudio de la Energía Potencial Gravitacional es de vital importancia en el campo de la física, ya que nos permite comprender cómo los objetos interactúan bajo la influencia de la gravedad. A lo largo de este trabajo, hemos explorado los conceptos fundamentales de la energía potencial gravitacional y su relación con la altura y la masa de un objeto.
