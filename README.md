@@ -71,4 +71,10 @@ COSAS POR TERMINAR:
                 ![Captura de pantalla 2023-06-13 234409](https://github.com/Bastian03Riveros/Eva-Transdisciplinar-2023-C3-S3/assets/135167583/2516ccef-8364-47a7-b257-17c062dc6cff)
 
 # Conclusiones
-En conclusion sobre este proyecto podemos decir que mediante la creacion de este proyecto grupal............
+En conclusión, el estudio de la Energía Potencial Gravitacional es de vital importancia en el campo de la física, ya que nos permite comprender cómo los objetos interactúan bajo la influencia de la gravedad. A lo largo de este trabajo, hemos explorado los conceptos fundamentales de la energía potencial gravitacional y su relación con la altura y la masa de un objeto.
+
+Además, hemos demostrado la utilidad de la programación en Python como una herramienta poderosa para simular y calcular la energía potencial gravitacional. A través de la creación de un código en Python, hemos logrado representar y analizar sistemas físicos que involucran cambios en la altura de los objetos y calcular la energía potencial gravitacional correspondiente.
+
+La implementación de este código nos ha permitido visualizar de manera más clara cómo la energía potencial gravitacional varía con la altura, así como explorar diferentes escenarios y condiciones. Esto nos ha brindado una perspectiva más profunda sobre el comportamiento de la energía potencial gravitacional y cómo afecta a los sistemas físicos en general.
+
+En resumen, este trabajo ha demostrado la importancia de la energía potencial gravitacional en la comprensión de los fenómenos físicos, así como la utilidad de la programación en Python como una herramienta para su estudio. La combinación de la teoría y la práctica ha enriquecido nuestra comprensión de este concepto y nos ha permitido explorar sus implicaciones en diversos contextos.
