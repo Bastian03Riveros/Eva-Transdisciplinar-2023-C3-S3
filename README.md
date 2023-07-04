@@ -7,6 +7,10 @@ En este trabajo grupal se hara la realización de un codigo Python sobre la "Ene
 # Origen de la Energía Potencial Gravitacional
 La energía potencial gravitacional se remonta a la época de Isaac Newton en el siglo XVII. Newton descubrió que la fuerza gravitatoria entre dos objetos dependía de la masa de los objetos y la distancia que los separaba. También concluyó que la energía potencial gravitatoria es la energía que tiene un objeto debido a su posición en un campo gravitatorio. Por lo tanto, cuando un objeto se eleva a una cierta altura en la atmósfera, adquiere energía potencial gravitatoria. Esta energía se puede convertir en trabajo cuando el objeto se deja caer y se mueve hacia abajo, gracias a la fuerza gravitatoria que actúa sobre él. Este principio ha sido fundamental en la comprensión de la dinámica de los cuerpos celestes y ha llevado a importantes avances en la tecnología, como la creación de satélites y el desarrollo de la energía hidroeléctrica.
 
+
+![si](https://github.com/Bastian03Riveros/Eva-Transdisciplinar-2023-C3-S3/assets/135164614/3b33faed-a01c-4e9a-b7ee-44ba8ea2f5e1)
+
+
 # ¿De que trata la Energía Potencial Gravitacional?
 La energía potencial gravitacional es la energía que posee un objeto debido a su posición en el campo gravitatorio de la Tierra o cualquier otro cuerpo masivo. Esta energía se mide en julios y depende de la altura a la que se encuentra el objeto y de su masa. A medida que un objeto se eleva en el campo gravitacional, su energía potencial gravitacional se incrementa, mientras que al descender, su energía potencial disminuye. Esta energía es importante en la comprensión de la mecánica clásica, y en la descripción de fenómenos como caídas libres y sistemas planetarios.
 
