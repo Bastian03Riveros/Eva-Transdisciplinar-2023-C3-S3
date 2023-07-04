@@ -24,6 +24,9 @@ G: es el valor de la aceleración producido por la gravedad.
 
 H: es la altura a la que se encuentra en el cuerpo.
 
+![image](https://github.com/Bastian03Riveros/Eva-Transdisciplinar-2023-C3-S3/assets/135164614/f356d73e-0dce-4f3e-b31b-0f546c74786f)
+
+
 # ¿Como se puede resolver?
 La energía potencial gravitacional depende de la masa y la altura del objeto. Se puede calcular multiplicando el potencial asociado al campo gravitacional por la masa del objeto.
 
