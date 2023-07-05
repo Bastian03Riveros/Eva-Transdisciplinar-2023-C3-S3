@@ -57,7 +57,7 @@ Las herramientas que se utilizaron en este trabajo fueron:
 # Guia de uso
 Paso 1-. Una vez con el codigo descargado darle click derecho, abrir con y seleccionar Visual Studio Code
 
-paso 2-. ya el codigo abierto en Visual Estudio Code jecutarlo haciendo click el el logo de play situado en la esquina superior derecha de la pantalla
+Paso 2-. ya el codigo abierto en Visual Estudio Code jecutarlo haciendo click el el logo de play situado en la esquina superior derecha de la pantalla
 
 Paso 3-. Se abrira una ventana en la cual indicando tanto masa como altura se calculara los joules al momento de este casi llegar al suelo eso sin contar el roce.
 
