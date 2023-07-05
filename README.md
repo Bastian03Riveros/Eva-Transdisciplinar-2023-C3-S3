@@ -52,12 +52,14 @@ Las herramientas que se utilizaron en este trabajo fueron:
 
 3-. No es necesario agregar una nueva intalacion sobre la libreria "Tkinter" ya que viene incluido en el mismo Python.
 
-4-. Luego sigue las instrucciones que muestra en pantalla y completa la instalación.
+4-. Despues de esto es necesario que descarges el ultimo archivo de codigo el cual se encuentra arriba del todo
 
 # Guia de uso
-Paso 1-. Ejecutar el codigo en Visual Studio Code
+Paso 1-. Una vez con el codigo descargado darle click derecho, abrir con y seleccionar Visual Studio Code
 
-Paso 2-. Se abrira una ventana en la cual indicando tanto masa como altura se calculara los joules al momento de este casi llegar al suelo eso sin contar el roce.
+paso 2-. ya el codigo abierto en Visual Estudio Code jecutarlo haciendo click el el logo de play situado en la esquina superior derecha de la pantalla
+
+Paso 3-. Se abrira una ventana en la cual indicando tanto masa como altura se calculara los joules al momento de este casi llegar al suelo eso sin contar el roce.
 
 # Conclusiones
 En conclusión, el estudio de la Energía Potencial Gravitacional es de vital importancia en el campo de la física, ya que nos permite comprender cómo los objetos interactúan bajo la influencia de la gravedad. A lo largo de este trabajo, hemos explorado los conceptos fundamentales de la energía potencial gravitacional y su relación con la altura y la masa de un objeto.
