@@ -42,10 +42,11 @@ Las herramientas que se utilizaron en este trabajo fueron:
 
 3-. Libreria "Tkinter", basicamente lo usamos para crear la interfaz gráficas de usuario, administrar y crear la ventana principal como por ejemplo las etiquetas, marcos, entradas, botones, etc.
 
-4-. Libreria "Canvas", es un elemento HTML el cual puede ser usado para dibujar gráficos usando scripts (normalmente JavaScript). Este puede, por ejemplo, ser usado para dibujar gráficos, realizar composición de fotos o simples (y no tan simples) animaciones.
 
 # Guia de instalacion
 1-. Principalmente debes desargar e instalar Python mediante este enlace --> https://www.python.org/downloads/.
+
+2-. Ademas necesitaras un editor de codigo el cual recomendamos descargar e instalar es visual estudio code por el sig enlace --> https://code.visualstudio.com/download
 
 2-. Al momento de estar instalando Python, desde su launcher (su instalador) hay que marcar una casilla llamada "add python to PATH".
 
@@ -53,12 +54,10 @@ Las herramientas que se utilizaron en este trabajo fueron:
 
 4-. Luego sigue las instrucciones que muestra en pantalla y completa la instalación.
 
-5-. 
-
 # Guia de uso
 Paso 1-. Ejecutar el codigo en Visual Studio Code
 
-Paso 2-. Se abrira una ventana en la cual se deben introducir los datos necesarios para obtener el resultado.
+Paso 2-. Se abrira una ventana en la cual indicando tanto masa como altura se calculara los joules al momento de este casi llegar al suelo eso sin contar el roce.
 
 # Conclusiones
 En conclusión, el estudio de la Energía Potencial Gravitacional es de vital importancia en el campo de la física, ya que nos permite comprender cómo los objetos interactúan bajo la influencia de la gravedad. A lo largo de este trabajo, hemos explorado los conceptos fundamentales de la energía potencial gravitacional y su relación con la altura y la masa de un objeto.
