@@ -61,6 +61,9 @@ Paso 2-. ya el codigo abierto en Visual Estudio Code jecutarlo haciendo click el
 
 Paso 3-. Se abrira una ventana en la cual indicando tanto masa como altura se calculara los joules al momento de este casi llegar al suelo eso sin contar el roce.
 
+# Link del video explicativo sobre el codigo creado y de la Energía Potencial Gravitacional
+--> https://www.youtube.com/watch?v=J1pib7bSf_Y.
+
 # Conclusiones
 En conclusión, el estudio de la Energía Potencial Gravitacional es de vital importancia en el campo de la física, ya que nos permite comprender cómo los objetos interactúan bajo la influencia de la gravedad. A lo largo de este trabajo, hemos explorado los conceptos fundamentales de la energía potencial gravitacional y su relación con la altura y la masa de un objeto.
 
