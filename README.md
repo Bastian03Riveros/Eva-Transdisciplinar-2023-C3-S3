@@ -51,7 +51,9 @@ Las herramientas que se utilizaron en este trabajo fueron:
 
 3-. No es necesario agregar una nueva intalacion sobre la libreria "Tkinter" ya que viene incluido en el mismo Python.
 
-4-. 
+4-. Luego sigue las instrucciones que muestra en pantalla y completa la instalación.
+
+5-. 
 
 # Guia de uso
 Paso 1-. Ejecutar el codigo en Visual Studio Code
