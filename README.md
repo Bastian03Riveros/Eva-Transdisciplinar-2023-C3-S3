@@ -46,7 +46,7 @@ Las herramientas que se utilizaron en este trabajo fueron:
 # Guia de instalacion
 1-. Principalmente debes desargar e instalar Python mediante este enlace --> https://www.python.org/downloads/.
 
-2-. Ademas necesitaras un editor de codigo el cual recomendamos descargar e instalar es visual estudio code por el siguiente enlace --> https://code.visualstudio.com/download
+2-. Ademas necesitaras un editor de codigo el cual recomendamos descargar e instalar es visual estudio code por el siguiente enlace --> https://code.visualstudio.com/download.
 
 2-. Al momento de estar instalando Python, desde su launcher (su instalador) hay que marcar una casilla llamada "add python to PATH".
 
