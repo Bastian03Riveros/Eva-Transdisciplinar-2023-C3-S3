@@ -42,7 +42,7 @@ Las herramientas que se utilizaron en este trabajo fueron:
 
 3-. Libreria "Tkinter", basicamente lo usamos para crear la interfaz gráficas de usuario, administrar y crear la ventana principal como por ejemplo las etiquetas, marcos, entradas, botones, etc.
 
-4-. 
+4-. Libreria "Canvas", es un elemento HTML el cual puede ser usado para dibujar gráficos usando scripts (normalmente JavaScript). Este puede, por ejemplo, ser usado para dibujar gráficos, realizar composición de fotos o simples (y no tan simples) animaciones.
 
 # Guia de instalacion
 1-. Principalmente debes desargar e instalar Python mediante este enlace --> https://www.python.org/downloads/.
