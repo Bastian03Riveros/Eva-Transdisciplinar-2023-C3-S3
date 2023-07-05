@@ -42,9 +42,7 @@ Las herramientas que se utilizaron en este trabajo fueron:
 
 3-. Libreria "Tkinter", basicamente lo usamos para crear la interfaz gráficas de usuario, administrar y crear la ventana principal como por ejemplo las etiquetas, marcos, entradas, botones, etc.
 
-4-. completar.....
-
-RELLENAR ESTE ITEM
+4-. 
 
 # Guia de instalacion
 1-. Principalmente debes desargar e instalar Python mediante este enlace --> https://www.python.org/downloads/.
@@ -53,22 +51,12 @@ RELLENAR ESTE ITEM
 
 3-. No es necesario agregar una nueva intalacion sobre la libreria "Tkinter" ya que viene incluido en el mismo Python.
 
-4-. completar................
+4-. 
 
 # Guia de uso
 Paso 1-. Ejecutar el codigo en Visual Studio Code
 
 Paso 2-. Se abrira una ventana en la cual se deben introducir los datos necesarios para obtener el resultado.
-             
-             
-
-COSAS POR TERMINAR:
-
--Hacer video
-
--Crear La Instalacion
-
--Guia de instalacion
 
 # Conclusiones
 En conclusión, el estudio de la Energía Potencial Gravitacional es de vital importancia en el campo de la física, ya que nos permite comprender cómo los objetos interactúan bajo la influencia de la gravedad. A lo largo de este trabajo, hemos explorado los conceptos fundamentales de la energía potencial gravitacional y su relación con la altura y la masa de un objeto.
